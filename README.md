@@ -1,5 +1,5 @@
-Method: GET
-Path: http://localhost:8196/get_currency
+Method: GET<br>
+Path: http://localhost:8196/get_currency<br>
 Request body:
 * Json
 ```json
