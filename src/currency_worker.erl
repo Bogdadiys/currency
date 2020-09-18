@@ -1,4 +1,5 @@
 -module(currency_worker).
+-behaviour(gen_server).
 
 %% API
 -export([start_link/0, stop/0]).
